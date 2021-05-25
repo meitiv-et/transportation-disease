@@ -2,7 +2,7 @@
 
 This repository contains C++ code to simulate a complex agent-based
 model and visualize the results.  For the complete model description
-and the summary of the findings please see [CARTEEH DataHub Data Story]()
+and the summary of the findings please see [CARTEEH DataHub Data Story](https://carteehdata.org/library/document/the-role-of-transportatio-d7a7)
 
 ### Running the model:
 1. Install `g++`, `gnuplot`, `ffmpeg`, and `make`
